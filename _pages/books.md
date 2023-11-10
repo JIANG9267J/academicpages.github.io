@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: "Books"
 author_profile: true
 redirect_from: 
   - /books/
