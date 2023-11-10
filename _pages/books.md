@@ -1,4 +1,12 @@
 ---
+permalink: /
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 title: "travels"
 ![th](https://github.com/JIANG9267J/academicpages.github.io/assets/150253670/08cf49b7-fd0f-4e51-8c51-88585d4af1bf)
 
